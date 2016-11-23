@@ -7,7 +7,7 @@ titled _Connection Patterns to the Virtual Campus of the UOC_.
 This repository includes the memoir itself that may be found [here](http://hdl.handle.net/10609/40661), 
 the slides used in its presentation and the R and Python sources used to obtain the results.
 
-The memoir contents are written in Catalan.
+(The memoir contents are written in Catalan.)
 
 ### CA
 Treball de fi de grau per al _Grau en Enginyeria Informàtica_ de la [UOC](http://www.uoc.edu/), que porta
